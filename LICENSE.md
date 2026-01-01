@@ -1,7 +1,7 @@
 License
 Version 1.0 — 2026
 
-Copyright (c) 2026 Siam Ahnaf (siamahnaf.com)
+Copyright (c) 2026 Siam Ahnaf ([siamahnaf.com](https://siamahnaf.com/))
 All rights reserved.
 
 1) Definitions
